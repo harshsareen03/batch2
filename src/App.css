@@ -1,0 +1,16 @@
+.HeaderOne.navbar-nav .nav-link:hover.active{
+  /* background-color: red;  */
+  /* border: 1px rgb(228, 215, 215) solid;  */
+   border-bottom: 2px solid white; 
+} 
+
+.HeaderOne.navbar-nav .nav-link.active {
+  border-bottom: 2px solid white;
+  
+}
+.HeaderOne.navbar-nav .nav-link:hover:not(.active) {
+  color: #e01b1b;
+}
+.backh{
+  background-color: #e01b1b;
+}
